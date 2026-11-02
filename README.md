@@ -1,5 +1,11 @@
 # SOOUA SEARCH 编译包
-
+截图
+![输入图片说明](wechat_longscreenshot_2026-11-02_230657_768.png)
+![输入图片说明](wechat_longscreenshot_2026-11-02_230540_028.png)
+![输入图片说明](wechat_longscreenshot_2026-11-02_230518_733.png)
+![输入图片说明](ScreenShot_2026-11-02_230636_415.png)
+![输入图片说明](ScreenShot_2026-11-02_230619_598.png)
+![输入图片说明](ScreenShot_2026-11-02_230608_058.png)
 #### 介绍
 
 SOOUA Search 聚合搜索引擎的**站点编译包**（纯静态 H5）。下载部署到你自己的服务器并绑定域名，即可拥有与 [SOOUA 主站](https://www.sooua.cn) 同款的聚合搜索站点：AI / 网页 / 视频 / 小说 / 新闻 / 购物 / 图片 / 音乐等多源聚合搜索，外加直达、密令、热搜导航等能力。
