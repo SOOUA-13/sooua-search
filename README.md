@@ -1,5 +1,5 @@
 # SOOUA SEARCH 编译包
-截图
+#### 截图
 ![输入图片说明](wechat_longscreenshot_2026-11-02_230657_768.png)
 ![输入图片说明](wechat_longscreenshot_2026-11-02_230540_028.png)
 ![输入图片说明](wechat_longscreenshot_2026-11-02_230518_733.png)
