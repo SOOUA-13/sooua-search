@@ -11,10 +11,8 @@ SOOUA Search 聚合搜索引擎的站点部署包（纯静态 H5）。下载部�
 | 版本 | 部署包 |
 | --- | --- |
 | v110701 | [dist/sooua_search_110701.zip](dist/sooua_search_110701.zip)（当前最新） |
-| v110501 | [dist/sooua_search_110501.zip](dist/sooua_search_110501.zip) |
-| v110301 | [dist/sooua_search_110301.zip](dist/sooua_search_110301.zip) |
 
-历史版本统一放在 [`dist/`](dist/) 目录，直接解压上传即可。
+仓库只保留当前最新版，下载后直接解压上传即可。
 
 ## 功能说明
 
